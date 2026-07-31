@@ -1,8 +1,8 @@
 ### Olá, eu sou o Gadiel 👋
 
-🎓 Estudante de programação, focado em desenvolvimento **Backend**
-🔐 Interessado em **Cybersegurança**
-🚀 Estudando Python, Django, HTTP e CSS
+**🎓 Estudante de programação, focado em desenvolvimento **Backend**
+**🔐 Interessado em **Cybersegurança**
+**🚀 Estudando Python, Django, HTTP e CSS**
 
 ---
 
