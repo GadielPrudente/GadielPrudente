@@ -1,173 +1,155 @@
+<!-- ==================== CABEÇALHO ==================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0066FF,100:00C6FF&text=Gadiel%20Prudente&fontSize=55&fontColor=FFFFFF&fontAlignY=40&animation=twinkling" />
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Gadiel+Prudente+%F0%9F%91%8B;Python+Developer+%F0%9F%90%8D;Software+Development+%F0%9F%92%BB;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=2500&pause=700&color=00C6FF&background=00000000&center=true&vCenter=true&width=850&height=80&lines=Ol%C3%A1%2C+eu+sou+Gadiel+Prudente+%F0%9F%91%8B;Desenvolvedor+Python+%F0%9F%90%8D;Desenvolvimento+de+Software+%F0%9F%92%BB;Aprendendo+e+criando+todos+os+dias+%F0%9F%9A%80" alt="Animação de texto" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GadielPrudente&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=GadielPrudente&label=Visualizações+do+perfil&color=0066FF&style=for-the-badge" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mim
 
-I'm a Brazilian developer focused on learning **Python** and building practical projects to improve my programming and problem-solving skills.
+Sou um desenvolvedor brasileiro focado em **Python e desenvolvimento de software**.
 
-I'm currently exploring **PySide6, Django, SQL, Git and GitHub**, while continuing to improve my Python fundamentals.
+Atualmente estou aprendendo através da criação de projetos e experimentando diferentes tecnologias.
 
-I'm interested in **software development, backend development and cybersecurity**.
+### 🔭 Atualmente trabalhando com
+
+* 🐍 Projetos em Python
+* 🖥️ Aplicações com PySide6
+* 🌐 Desenvolvimento Backend
+* 🔧 Git e GitHub
+
+### 🌱 Atualmente estudando
+
+* Python
+* PySide6
+* Django
+* SQL
+* Git e GitHub
+* Desenvolvimento Web
 
 ---
 
-## 🐍 The Zen of Python
+## 🐍 O Zen do Python
 
-> **Beautiful is better than ugly.**
-
-I believe good code should be **simple, readable and easy to understand**.
-
-I'm constantly trying to improve my programming style and apply these principles to my projects.
-
+- Beautiful is better than ugly.
+- Explicit is better than implicit.
+- Simple is better than complex.
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,django,sqlite,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,django,sqlite,html,css&perline=8" />
 </p>
 
 ---
 
-## 📊 Most Used Languages
+## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GadielPrudente&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
+    src="https://github-readme-stats.vercel.app/api?username=GadielPrudente&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF"
+    height="180"
+    alt="Estatísticas do GitHub"
+  />
+
+<img
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=GadielPrudente&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF"
+ height="180"
+ alt="Linguagens mais utilizadas"
+/>
+
+</p>
+
+---
+
+## 🔥 Sequência de contribuições
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=GadielPrudente&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF"
+    alt="Sequência de contribuições"
   />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Projetos em destaque
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=GadielPrudente&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="Gadiel's GitHub Stats"
-  />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=GadielPrudente&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧮 Calculadora Python
-
-A calculator project created to practice Python fundamentals and programming logic.
 
 <a href="https://github.com/GadielPrudente/Calculadora-Python">
-  <img src="https://img.shields.io/badge/View%20Project-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GadielPrudente&repo=Calculadora-Python&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
-
-</td>
-
-<td width="50%">
-
-### 📚 Exercise Bank
-
-A collection of programming exercises created to practice Python and improve problem-solving skills.
-
-<a href="https://github.com/GadielPrudente/exercise_bank">
-  <img src="https://img.shields.io/badge/View%20Project-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🖥️ PySide6 Window
-
-A project focused on learning GUI development with PySide6 and Qt.
-
-<a href="https://github.com/GadielPrudente/pyside6---janela">
-  <img src="https://img.shields.io/badge/View%20Project-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🧮 Python + PySide6 Calculator
-
-A graphical calculator built with Python and PySide6.
 
 <a href="https://github.com/GadielPrudente/Calculadora-Python-Pyside6">
-  <img src="https://img.shields.io/badge/View%20Project-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GadielPrudente&repo=Calculadora-Python-Pyside6&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
-</td>
-</tr>
-</table>
-
----
-
-## 📚 Currently Learning
+</p>
 
 <p align="center">
 
-🐍 Python    •   
-🖥️ PySide6    •   
-🌐 Django    •   
-🗄️ SQL    •   
-🔧 Git & GitHub
+<a href="https://github.com/GadielPrudente/exercise_bank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GadielPrudente&repo=exercise_bank&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
+
+<a href="https://github.com/GadielPrudente/pyside6---janela">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GadielPrudente&repo=pyside6---janela&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
 
 </p>
 
 ---
 
-## 🎯 Goals
+## 📚 Minha jornada de aprendizado
 
-* 🐍 Become a strong Python developer
-* 🖥️ Build more applications with PySide6
-* 🌐 Learn backend development with Django
-* 🗄️ Improve my SQL and database knowledge
-* 🔐 Explore cybersecurity
-* 🚀 Build larger and more complete projects
+```text
+Python        ████████████████████░░
+PySide6       ███████████████░░░░░░
+Git & GitHub  █████████████░░░░░░░░
+Django        ██████████░░░░░░░░░░░
+SQL           █████████░░░░░░░░░░░░
+```
+
+> Essas barras representam meu foco atual de estudos, e não porcentagens de conhecimento.
 
 ---
 
-## 🌱 My Journey
+## 🎯 Meus objetivos
 
-I'm still at the beginning of my programming journey, but I'm constantly learning, building projects and improving my code.
+* 🐍 Me tornar um desenvolvedor Python cada vez melhor
+* 🖥️ Criar aplicações mais completas com PySide6
+* 🌐 Aprender desenvolvimento Backend com Django
+* 🗄️ Melhorar meus conhecimentos em bancos de dados
+* 🔐 Explorar a área de cibersegurança
+* 🚀 Criar projetos cada vez maiores e mais completos
 
-Every repository represents another step in that journey.
+---
+
+## 🌱 Minha evolução
+
+Estou constantemente aprendendo, experimentando e criando novos projetos.
+
+Cada repositório representa mais um passo na minha evolução como desenvolvedor.
 
 <p align="center">
-  <b>Keep learning. Keep building. Keep improving. 🚀</b>
+  <b>Continue aprendendo. Continue criando. Continue evoluindo. 🚀</b>
 </p>
 
 ---
 
-<h3 align="center">
-  Thanks for visiting my profile! 👋
-</h3>
+<!-- ==================== RODAPÉ ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0066FF,100:00C6FF&section=footer" />
 </p>
