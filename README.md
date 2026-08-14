@@ -30,15 +30,7 @@ Atualmente estou estudando **PySide6, Django, SQL, Git e GitHub**, criando proje
 
 ---
 
-## 📊 GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GadielPrudente&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF" height="170" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GadielPrudente&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF" height="170" />
-</p>
-
----
 
 ## 🚀 Projetos
 
